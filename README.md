@@ -1,14 +1,12 @@
 # Currently learning:
-- C
+- C#
 - Python
 - JavaScript
 - React
 
-# Editors
+# Editor
 - Nvim
-- VS Code
 
 # Operating systems
-- MacOS
 - Linux
-- Windows
+- MacOS
